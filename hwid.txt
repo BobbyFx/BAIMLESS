@@ -195,4 +195,5 @@ S-1-5-21-2447844254-2156937041-1954797546-1001 // blackgod 6 meses gleisson.lima
 S-1-5-21-970415533-1954150966-2976648522-1001 // pablogod pblgod23@gmail.com 1 mes 10/01
 S-1-5-21-1046103944-4196576906-1269394574-1001 // gabferr984 gabrielferreiragomes984@gmail.com LIFETIME
 S-1-5-21-596836039-323590732-2206058218-1001 // jgms joaogabrielmoreiras@icloud.com 1 mes 10/01
-S-1-5-21-805718481-2443652298-1293173466-1001 // duckie lucasnegrodabalada@gmail.com 1 mes 10/01
+S-1-5-21-805718481-2443652298-1293173466-1001 //  duckie lucasnegrodabalada@gmail.com 1 mes 10/01
+S-1-5-21-1966441308-4062696285-1504857860-1001 // isquidi lmrlstrikel@gmail.com 1 mes 10-01
