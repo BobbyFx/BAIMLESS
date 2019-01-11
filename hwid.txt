@@ -180,8 +180,10 @@ S-1-5-21-1683186600-3598934962-2118259120-1001 // sk1lo gustavo404v3@hotmail.com
 S-1-5-21-1524877187-3289671343-2199135426-1001 // SyPherX thiagobernardinelioriginal@gmail.com LIFETIME
 S-1-5-21-4156564816-1989765093-1153909440-1000 // JoaoPedro201 Hiroofs_159@hotmail.com 1 Mês 11/01
 S-1-5-21-1966441308-4062696285-1504857860-1001 // lllSQDlll lmrlstrikel@gmail.com 1 mes 10/01
+S-1-5-21-2400597007-3649871988-2441485819-1001 // ArthUr_ chica.bock@hotmail.com 1 mes 11/01
 S-1-5-21-1302237515-2175836081-2771093263-1002 // Kxsuy💔 Konaibro@gmail.com LIFETIME
 S-1-5-21-926980579-2314208914-2141894980-1001 // Lucas Stratmann lucasstratmann12@gmail.com 1 mes 11/01
+S-1-5-21-2570550414-1017179091-802534308-1001 // marcus marcusramos651@gmail.com 1 mes 11/01
 S-1-5-21-3367509113-4201013874-2112688228-1000 // DoidaoDeFarinha znexosznexos@gmail.com 1 mes 10/01
 S-1-5-21-2209227212-699314812-1802232876-1001 // gabrielpradovieira pneu400@hotmail.com 3 meses 10/01
 S-1-5-21-1756808016-2835742363-570185115-1001 // meninogamer matheusribeiro4k@hotmail.com 3 meses 10/01
