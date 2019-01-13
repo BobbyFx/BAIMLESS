@@ -295,3 +295,5 @@ S-1-5-21-1046103944-4196576906-1269394574-1001 // gabferr984 LIFETIME gabrielfer
  S-1-5-21-968435878-3461653018-4196418439-1001  // rocha  1 mes gustavorochalopess@hotmail.com 
  S-1-5-21-1767814636-3877593769-3657069714-1001 // chales 3 meses jujucec2012@gmail.com
 S-1-5-21-4129767973-469123480-3474596887-1001 // GHETTO 1 MES joaozinholindopvp@gmail.com (EMPRESTEI PRA ELE)
+S-1-5-21-1711519980-2963984368-1234100563-1001 // laevertonbarbosa@hotmail.com 1 mes Laeverton 13/01
+S-1-5-21-362092574-1174175447-1689789594-1000 // 3 meses Sr. Guardinha vborn@outlook.com.br
